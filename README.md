@@ -1,4 +1,5 @@
-# Titanik | who will survive?
+# Titanik 
+### who will survive?
 *Machine Learning - Kaggle Competition*
 
 TASK:
